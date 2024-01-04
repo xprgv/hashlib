@@ -1,0 +1,4 @@
+*.o
+*.so
+hashf
+examples/test.s
